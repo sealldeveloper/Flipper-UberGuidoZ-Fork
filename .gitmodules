@@ -64,6 +64,9 @@
 [submodule "BadUSB/Kavitate-BadUSB"]
 	path = BadUSB/Kavitate-BadUSB
 	url = https://github.com/Kavitate/FlipperZeroBadUSB
-[submodule "NFC/Toys/FlipperSkylanders"]
+[submodule "NFC/Toys/Skylanders"]
 	path = NFC/Toys/Skylanders
 	url = https://github.com/sealldeveloper/FlipperSkylanders
+[submodule "Sub-GHz"]
+	path = Sub-GHz
+	url = https://github.com/sealldeveloper/Flipper-SGDB
